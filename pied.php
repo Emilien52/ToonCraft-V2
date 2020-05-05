@@ -7,7 +7,7 @@
                         <?php 
   echo date('Y') ?>. Tous droits réservés
                             <br> Site créé avec <a href="http://craftmywebsite.fr">CraftMyWebsite</a>
-                            <br> Thème ToonCraft par <a href="http://angrykiller.raidghost.com">AngryKiller</a> </div>
+                            <br> Thème ToonCraft par Emilien52, BadiiiX et Guedesite </div>
             </div>
         </div>
     </div>
