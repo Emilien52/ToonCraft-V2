@@ -34,7 +34,7 @@
             <div class="col-sm-12">
                 <?php echo $_Serveur_['General']['name'].' ';
                 echo date('Y') ?>. Tous droits réservés
-                <br> Site créé avec <a href="http://craftmywebsite.fr">CraftMyWebsite</a>
+                <br> Site créé avec <a href="http://craftmywebsite.fr">CraftMyWebsite</a>#<?php echo $versioncms; ?>
                 <br> Thème ToonCraft par Emilien52, BadiiiX et Guedesite </div>
             </div>
             <div class="col-sm-4">
